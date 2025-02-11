@@ -1,3 +1,16 @@
+## 4.5.11
+
+**Enhancements**
+- Updated `cometchat_uikit_shared` to version `4.4.10`.
+- Updated `cometchat_sdk` to version `4.0.19`.
+
+**Fixes**
+- Fixed an issue in Flutter where the header view and footer view properties were not being applied in `ConversationWithMessages`.
+- Fixed an issue where opening the app paused background music on Android.
+- Fixed an issue where tags in the message request builder were not applied when the app was resumed.
+- Fixed an issue where long messages were not scrolling properly in threaded messages.
+
+
 ## 4.5.10
 
 **New**
