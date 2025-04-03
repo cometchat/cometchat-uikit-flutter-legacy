@@ -1,3 +1,13 @@
+## 4.5.12
+
+**Enhancements**
+- Improved functionality checks for Flutter v4 UI Kit to ensure feature availability.
+
+**Fixes**
+- Fixed an issue where padding was not applied to the message composer.
+- Resolved timestamp alignment issues within the message bubble.
+
+
 ## 4.5.11
 
 **Enhancements**
