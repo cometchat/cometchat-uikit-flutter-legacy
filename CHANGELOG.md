@@ -1,3 +1,15 @@
+## 4.5.13
+
+**Enhancements**
+- Updated `cometchat_uikit_shared` to version `4.4.13`.
+- Updated `cometchat_sdk` to version `4.0.22`.
+- Added a `hideAppBar` property to the `CometChatGroupMembers` component, allowing developers to control the visibility of the app bar for more flexible UI integration.
+
+
+**Fixes**
+- Modified the message action bottom sheet triggered by long-pressing a message to automatically adjust its height based on content, avoiding unnecessary blank space.
+- Fixed an issue where the last message in the chat would be hidden after opening the sticker panel. Also resolved a bug where sticker messages would disappear from view during scrolling.
+
 ## 4.5.12
 
 **Enhancements**
