@@ -23,3 +23,4 @@ To set up CometChat's Flutter UIKit and utilize CometChat for your chat and call
 
 ## Help and Support
 For issues running the project or integrating with our UI Kits, consult our [documentation](https://www.cometchat.com/docs/v4/flutter-uikit/integration) or create a [support ticket](https://help.cometchat.com/hc/en-us) or seek real-time support via the [CometChat Dashboard](https://app.cometchat.com/).
+<!-- GitHub App push test: 2026-05-25T13:35:53Z -->
